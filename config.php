@@ -4,10 +4,10 @@
 $config = array();
 
 // a unique key that identifies this application - DO NOT LEAVE THIS EMPTY!
-$config['app_key'] = '';
+$config['app_key'] = '5325235';
 
 // a secret key to be used during encryption
-$config['encryption_key'] = '';
+$config['encryption_key'] = '142';
 
 // URL running the proxy app
 //$config['app_url'] = 'https://www.mysampleproxy.com/proxyfolder/';
@@ -46,7 +46,6 @@ $config['plugins'] = array(
     'XHamster',
     'XVideos',
     'Xnxx',
-    'Pornhub',
     'Twitter'
 );
 
